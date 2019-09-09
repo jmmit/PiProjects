@@ -1,7 +1,7 @@
 This Script was created to control external hardware for halloween
 
 HARDWARE REQUIRED
-##################
+=================
 
 > PIR Sensor
 > Relay Switch
@@ -10,4 +10,4 @@ HARDWARE REQUIRED
 > Cat5e/6 Cable (For extending the PIR Sensor / Relay Switch
 
 INSTRUCTIONS
-############
+=============
